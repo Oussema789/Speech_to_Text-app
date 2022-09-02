@@ -1,4 +1,4 @@
-# recorder_app
+# speech_to_Text-app
 
 In this project, I am using flutter_speech package that uses speech recognition to turn your speech into text.
 It can recognize many languages like Arabic, English, Spanish, Italian, Russian and French.
