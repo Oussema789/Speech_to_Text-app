@@ -1,16 +1,12 @@
 # recorder_app
 
-A new Flutter project.
+In this project, I am using flutter_speech package that uses speech recognition to turn your speech into text.
+It can recognize many languages like Arabic, English, Spanish, Italian, Russian and French.
+I implement a simple user interface with a splash screen, an introduction screen and a home page. It is on the home page that your speech will be converted into usable and selectable text.
+For more information, please visit the official link:
 
-## Getting Started
+https://lnkd.in/ee3VtpTM
 
-This project is a starting point for a Flutter application.
+It shows you how to use it and provides you with the main functions and a detailed example for using this package.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://www.linkedin.com/posts/oussama-khlifi-ab54b0166_flutter-dart-speechabrtoabrtext-activity-6967496939386855424-72Q3?utm_source=share&utm_medium=member_desktop)
